@@ -19,7 +19,7 @@
 ### 🔹 1. Clona el repositorio  
 
 ```bash
-git clone https://github.com/tuusuario/roblox-auto-chat-bot.git
+git clone https://github.com/BrujoDolor1011/roblox-auto-chat-bot.git
 cd roblox-auto-chat-bot
 ```
 
